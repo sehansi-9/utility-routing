@@ -26,7 +26,7 @@ The reproduction cell refits four random-forest utility models using cached imag
 1.  Download `ocr_invoke.zip` from the Zenodo record.
 2.  Create a Kaggle dataset from the archive contents and attach it to a new Kaggle notebook. The attached input must contain `all_predictions.csv` and `out_of_fold_scores.csv`, each exactly once.
 3.  Open `reproducing router results.ipynb` and run the cell titled `REBUILD UTILITY ROUTERS USING ORIGINAL SOURCE FOLDS`.
-4.  Compare the printed results with the table below. Outputs are saved under `/kaggle/working/reproducibility_release_v1/`.
+4.  Outputs are saved under `/kaggle/working/reproducibility_release_v1/`.
 
 ## Environment
 
